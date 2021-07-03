@@ -1,5 +1,4 @@
 description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input 1	input 2	input 3	input 4	input 5	input 6	input 7	output	lvl	plvl	ilvl	mod 1	mod 1 chance	mod 1 param	mod 1 min	mod 1 max	mod 2	mod 2 chance	mod 2 param	mod 2 min	mod 2 max	mod 3	mod 3 chance	mod 3 param	mod 3 min	mod 3 max	mod 4	mod 4 chance	mod 4 param	mod 4 min	mod 4 max	mod 5	mod 5 chance	mod 5 param	mod 5 min	mod 5 max	output b	b lvl	b plvl	b ilvl	b mod 1	b mod 1 chance	b mod 1 param	b mod 1 min	b mod 1 max	b mod 2	b mod 2 chance	b mod 2 param	b mod 2 min	b mod 2 max	b mod 3	b mod 3 chance	b mod 3 param	b mod 3 min	b mod 3 max	b mod 4	b mod 4 chance	b mod 4 param	b mod 4 min	b mod 4 max	b mod 5	b mod 5 chance	b mod 5 param	b mod 5 min	b mod 5 max	output c	c lvl	c plvl	c ilvl	c mod 1	c mod 1 chance	c mod 1 param	c mod 1 min	c mod 1 max	c mod 2	c mod 2 chance	c mod 2 param	c mod 2 min	c mod 2 max	c mod 3	c mod 3 chance	c mod 3 param	c mod 3 min	c mod 3 max	c mod 4	c mod 4 chance	c mod 4 param	c mod 4 min	c mod 4 max	c mod 5	c mod 5 chance	c mod 5 param	c mod 5 min	c mod 5 max	*eol
--> Staff of Kings	1			0	28				1	leg							msf																																																																																							0
 -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
 -> Super Khalim Flail	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
 -> portal to cow lvl	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
@@ -8,8 +7,8 @@ Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 -> full rejuvenate potion	1			0					7	"hpot,qty=3"	"mpot,qty=3"	gem2					rvl																																																																																							0
 -> rejuvenate potion	1			0					7	"hpot,qty=3"	"mpot,qty=3"	gem0					rvs																																																																																							0
--> antidote potion	1			0					2	gpl	hpot						yps																																																																																							0
 -> one large	1			0					3	"rvs,qty=3"							rvl																																																																																							0
+-> antidote potion	1			0					2	gpl	hpot						yps																																																																																							0
 -> bolts	1			0					2	"aqv,qty=2"							cqv																																																																																							0
 -> arrows	1			0					2	"cqv,qty=2"							aqv																																																																																							0
 -> throwing axe	1			0					2	axe	knif						"tax,nor"																																																																																							0
@@ -77,7 +76,6 @@ Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																								
 -> rune 32	1			100					3	"r31,qty=2"	glr						r32																																																																																							0
 -> rune 33	1			100					3	"r32,qty=2"	glg						r33																																																																																							0
 the stone of jordan	1			100					3	"r33,qty=2"	glw						The Stone of Jordan	99																																																																																						0
-rune 01 -> diamond	1			100					1	r01							gcw																																																																																							0
 rune 02 -> rune 01	1			100					1	r02							r01																																																																																							0
 rune 03 -> rune 02	1			100					1	r03							r02																																																																																							0
 rune 04 -> rune 03	1			100					1	r04							r03																																																																																							0
@@ -256,10 +254,12 @@ unique jewel -> unique jewel	1			100					1	"jew,uni"							"jew,uni"	99									
 cheat weapon	1			100					2	weap	isc						useitem				aura		123	25	25	charged		91	82	60	hit-skill		87	100	1																																																																					0
 cheat arrows	1			100					2	aqv	isc						useitem				pierce			100	100	knock		1	1																																																																											0
 cheat bolts	1			100					2	cqv	isc						useitem				explosivearrow			13	13																																																																															0
-cheat boots	1			100					2	boot	isc						useitem				charged		54	52	6	charged		258	52	6																																																																										0
-cheat armor	1			100					2	armo	isc						useitem				res-fire/lvl			10	10	res-cold/lvl			10	10	nofreeze		1	1	1	res-ltng/lvl			10	10	res-pois/lvl			10	10																																																											0
-cheat amulet	1			100					2	amu	isc						useitem				aura		120	25	25																																																																															0
+cheat gloves	1			100					2	glov	isc						useitem				str/lvl		40																																																																																	0
+cheat belt	1			100					2	belt	isc						useitem				aura		120	25	25																																																																															0
+cheat boots	1			100					2	boot	isc						useitem				charged		54	50	7	charged		258	50	7	nofreeze			1	1	half-freeze			1	1																																																																0
+cheat armor	1			100					2	armo	isc						useitem				hp			450	450	hp/lvl		40			hp%			50	50	vit			95	95	vit/lvl		40																																																													0
+cheat amulet	1			100					2	amu	isc						useitem				allskills			1	1																																																																															0
 cheat ring	1			100					2	rin	isc						useitem				att/lvl			50	50																																																																															0
-cheat charm	1			100					1	isc							"cm1,mag"		99		light			8	8	addxp			50	50	mag%			155	155	mag%/lvl			63	63	state	50	137	1	1																																																											0
-cheat charm	1			100					2	char	isc						useitem				vit			95	95	vit/lvl		40																																																																												0
-cheat jewel	1			100					2	jew	isc						useitem				hp			450	450	hp/lvl		40			hp%			50	50																																																																					0
+cheat charm	1			100					1	isc							char				mag%			155	155	mag%/lvl			63	63	light			8	8	addxp			50	50	state		137	1	1																																																											0
+cheat charm	1			100					2	char	isc						useitem				mag%			155	155	mag%/lvl			63	63	light			8	8	addxp			50	50	state		137	1	1																																																											0
+cheat jewel	1			100					2	jew	isc						useitem				res-fire/lvl			10	10	res-cold/lvl			10	10	res-ltng/lvl			10	10	res-pois/lvl			10	10																																																																0
