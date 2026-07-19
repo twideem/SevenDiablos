@@ -1,0 +1,208 @@
+description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input 1	input 2	input 3	input 4	input 5	input 6	input 7	output	lvl	plvl	ilvl	mod 1	mod 1 chance	mod 1 param	mod 1 min	mod 1 max	mod 2	mod 2 chance	mod 2 param	mod 2 min	mod 2 max	mod 3	mod 3 chance	mod 3 param	mod 3 min	mod 3 max	mod 4	mod 4 chance	mod 4 param	mod 4 min	mod 4 max	mod 5	mod 5 chance	mod 5 param	mod 5 min	mod 5 max	output b	b lvl	b plvl	b ilvl	b mod 1	b mod 1 chance	b mod 1 param	b mod 1 min	b mod 1 max	b mod 2	b mod 2 chance	b mod 2 param	b mod 2 min	b mod 2 max	b mod 3	b mod 3 chance	b mod 3 param	b mod 3 min	b mod 3 max	b mod 4	b mod 4 chance	b mod 4 param	b mod 4 min	b mod 4 max	b mod 5	b mod 5 chance	b mod 5 param	b mod 5 min	b mod 5 max	output c	c lvl	c plvl	c ilvl	c mod 1	c mod 1 chance	c mod 1 param	c mod 1 min	c mod 1 max	c mod 2	c mod 2 chance	c mod 2 param	c mod 2 min	c mod 2 max	c mod 3	c mod 3 chance	c mod 3 param	c mod 3 min	c mod 3 max	c mod 4	c mod 4 chance	c mod 4 param	c mod 4 min	c mod 4 max	c mod 5	c mod 5 chance	c mod 5 param	c mod 5 min	c mod 5 max	*eol
+rejuvenate potion	1			0					2	hpot	mpot						rvs																																																																																							0
+full rejuvenate potion	1			0					2	"rvs,qty=2"							rvl																																																																																							0
+antidote potion	1			0					1	poti							yps																																																																																							0
+flawed amethyst	1			0					2	"gcv,qty=2"							gfv																																																																																							0
+standard amethyst	1			0					2	"gfv,qty=2"							gsv																																																																																							0
+flawless amethyst	1			0					2	"gsv,qty=2"							gzv																																																																																							0
+perfect amethyst	1			0					2	"gzv,qty=2"							gpv																																																																																							0
+flawed ruby	1			0					2	"gcr,qty=2"							gfr																																																																																							0
+standard ruby	1			0					2	"gfr,qty=2"							gsr																																																																																							0
+flawless ruby	1			0					2	"gsr,qty=2"							glr																																																																																							0
+perfect ruby	1			0					2	"glr,qty=2"							gpr																																																																																							0
+flawed sapphire	1			0					2	"gcb,qty=2"							gfb																																																																																							0
+standard sapphire	1			0					2	"gfb,qty=2"							gsb																																																																																							0
+flawless sapphire	1			0					2	"gsb,qty=2"							glb																																																																																							0
+perfect sapphire	1			0					2	"glb,qty=2"							gpb																																																																																							0
+flawed topaz	1			0					2	"gcy,qty=2"							gfy																																																																																							0
+standard topaz	1			0					2	"gfy,qty=2"							gsy																																																																																							0
+flawless topaz	1			0					2	"gsy,qty=2"							gly																																																																																							0
+perfect topaz	1			0					2	"gly,qty=2"							gpy																																																																																							0
+flawed emerald	1			0					2	"gcg,qty=2"							gfg																																																																																							0
+standard emerald	1			0					2	"gfg,qty=2"							gsg																																																																																							0
+flawless emerald	1			0					2	"gsg,qty=2"							glg																																																																																							0
+perfect emerald	1			0					2	"glg,qty=2"							gpg																																																																																							0
+flawed diamond	1			0					2	"gcw,qty=2"							gfw																																																																																							0
+standard diamond	1			0					2	"gfw,qty=2"							gsw																																																																																							0
+flawless diamond	1			0					2	"gsw,qty=2"							glw																																																																																							0
+perfect diamond	1			0					2	"glw,qty=2"							gpw																																																																																							0
+flawed skull	1			0					2	"skc,qty=2"							skf																																																																																							0
+standard skull	1			0					2	"skf,qty=2"							sku																																																																																							0
+flawless skull	1			0					2	"sku,qty=2"							skl																																																																																							0
+perfect skull	1			0					2	"skl,qty=2"							skz																																																																																							0
+rune 02	1			100					2	"r01,qty=2"							r02																																																																																							0
+rune 03	1			100					2	"r02,qty=2"							r03																																																																																							0
+rune 04	1			100					2	"r03,qty=2"							r04																																																																																							0
+rune 05	1			100					2	"r04,qty=2"							r05																																																																																							0
+rune 06	1			100					2	"r05,qty=2"							r06																																																																																							0
+rune 07	1			100					2	"r06,qty=2"							r07																																																																																							0
+rune 08	1			100					2	"r07,qty=2"							r08																																																																																							0
+rune 09	1			100					2	"r08,qty=2"							r09																																																																																							0
+rune 10	1			100					2	"r09,qty=2"							r10																																																																																							0
+rune 11	1			100					2	"r10,qty=2"							r11																																																																																							0
+rune 12	1			100					2	"r11,qty=2"							r12																																																																																							0
+rune 13	1			100					2	"r12,qty=2"							r13																																																																																							0
+rune 14	1			100					2	"r13,qty=2"							r14																																																																																							0
+rune 15	1			100					2	"r14,qty=2"							r15																																																																																							0
+rune 16	1			100					2	"r15,qty=2"							r16																																																																																							0
+rune 17	1			100					2	"r16,qty=2"							r17																																																																																							0
+rune 18	1			100					2	"r17,qty=2"							r18																																																																																							0
+rune 19	1			100					2	"r18,qty=2"							r19																																																																																							0
+rune 20	1			100					2	"r19,qty=2"							r20																																																																																							0
+rune 21	1			100					2	"r20,qty=2"							r21																																																																																							0
+rune 22	1			100					2	"r21,qty=2"							r22																																																																																							0
+rune 23	1			100					2	"r22,qty=2"							r23																																																																																							0
+rune 24	1			100					2	"r23,qty=2"							r24																																																																																							0
+rune 25	1			100					2	"r24,qty=2"							r25																																																																																							0
+rune 26	1			100					2	"r25,qty=2"							r26																																																																																							0
+rune 27	1			100					2	"r26,qty=2"							r27																																																																																							0
+rune 28	1			100					2	"r27,qty=2"							r28																																																																																							0
+rune 29	1			100					2	"r28,qty=2"							r29																																																																																							0
+rune 30	1			100					2	"r29,qty=2"							r30																																																																																							0
+rune 31	1			100					2	"r30,qty=2"							r31																																																																																							0
+rune 32	1			100					2	"r31,qty=2"							r32																																																																																							0
+rune 33	1			100					2	"r32,qty=2"							r33																																																																																							0
+2 sockets weapon	1			100					2	weap	skc						"useitem,sock=2"																																																																																							0
+3 sockets weapon	1			100					2	weap	skf						useitem				sock			3	3																																																																															0
+4 sockets weapon	1			100					2	weap	sku						useitem				sock			4	4																																																																															0
+5 sockets weapon	1			100					2	weap	skl						useitem				sock			5	5																																																																															0
+6 sockets weapon	1			100					2	weap	skz						useitem				sock			6	6																																																																															0
+2 sockets armor	1			100					2	armo	skc						"useitem,sock=2"																																																																																							0
+3 sockets armor	1			100					2	armo	skf						useitem				sock			3	3																																																																															0
+4 sockets armor	1			100					2	armo	sku						useitem				sock			4	4																																																																															0
+5 sockets armor	1			100					2	armo	skl						useitem				sock			5	5																																																																															0
+6 sockets armor	1			100					2	armo	skz						useitem				sock			6	6																																																																															0
+destroy gems	1			100					2	"any,sock"	wms						"useitem,uns"																																																																																							0
+repair and recharge	1			100					2	weap	hpot						"useitem,rep,rch,qty=255"																																																																																							0
+repair and recharge	1			100					2	armo	hpot						"useitem,rep,rch,qty=255"																																																																																							0
+faster boots	1			100					2	boot	vps						useitem				move1			10	10																																																																															0
+normal weapon	1			100					2	weap	gemd						"usetype,hiq"	99																																																																																						0
+normal armor	1			100					2	armo	gemd						"usetype,hiq"	99																																																																																						0
+exceptional weapon	1			100					2	"weap,bas"	gemr						"useitem,mod,exc"				levelreq			5	5																																																																															0
+exceptional armor	1			100					2	"armo,bas"	gemr						"useitem,mod,exc"				levelreq			5	5																																																																															0
+elite weapon	1			100					2	"weap,exc"	gemr						"useitem,mod,eli"				levelreq			7	7																																																																															0
+elite armor	1			100					2	"armo,exc"	gemr						"useitem,mod,eli"				levelreq			7	7																																																																															0
+arrows -> bolts	1			0					2	"aqv,qty=2"							cqv																																																																																							0
+bolts -> arrows	1			0					2	"cqv,qty=2"							aqv																																																																																							0
+throwing axe	1			0					2	axe	knif						"tax,nor"																																																																																							0
+javelins	1			0					2	spea	aqv						"jav,nor"																																																																																							0
+Staff of Kings	1			0	28				1	leg							msf																																																																																							0
+Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
+Super Khalim Flail	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
+portal to cow lvl	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
+Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
+Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
+magic weapon	1			100					2	weap	gems						"usetype,mag"		75																																																																																					0
+magic armor	1			100					2	armo	gems						"usetype,mag"		75																																																																																					0
+magic amulet	1			100					2	amu	gems						"usetype,mag"		75																																																																																					0
+magic ring	1			100					2	rin	gems						"usetype,mag"		75																																																																																					0
+magic charm	1			100					2	char	gems						"usetype,mag"		75																																																																																					0
+magic jewel	1			100					2	jew	gems						"usetype,mag"		75																																																																																					0
+ring -> amulet	1			0					2	"rin,qty=2"							"amu,mag"		75																																																																																					0
+prismatic amulet	1			0					2	amu	mpot						"amu,mag,pre=331"	50																																																																																						0
+savage polearm	1			0					4	staf	kri	belt	mpot				"pole,mag,pre=191"	50		60																																																																																				0
+sword of the leech	1			0					2	swor	mpot						"usetype,mag,suf=352"	30		60																																																																																				0
+shield of spikes	1			0					2	shld	mpot						"usetype,mag,suf=162"	30		60																																																																																				0
+amulet -> ring	1			0					2	"amu,qty=2"							"rin,mag"		75																																																																																					0
+garnet ring	1			0					2	rin	tpot						"rin,mag,pre=372"	30																																																																																						0
+cobalt ring	1			0					2	rin	wms						"rin,mag,pre=353"	30																																																																																						0
+jade ring	1			0					2	rin	yps						"rin,mag,pre=412"	30																																																																																						0
+coral ring	1			0					2	rin	rvs						"rin,mag,pre=392"	30																																																																																						0
+rare weapon	1			100					2	weap	gemt						"usetype,rar"		75																																																																																					0
+rare armor	1			100					2	armo	gemt						"usetype,rar"		75																																																																																					0
+rare amulet	1			100					2	amu	gemt						"usetype,rar"		75																																																																																					0
+rare ring	1			100					2	rin	gemt						"usetype,rar"		75																																																																																					0
+rare jewel	1			100					2	jew	gemt						"usetype,rar"		75																																																																																					0
+crafted blood helm	1			100					4	hlm	jew	rune	gemr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	deadly			5	10																																																																					0
+crafted blood amulet	1			100					4	amul	jew	rune	gemr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	move1			5	10																																																																					0
+crafted blood body	1			100					4	plt	jew	rune	gemr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	demon-heal			1	3																																																																					0
+crafted blood belt	1			100					4	mbl	jew	rune	gemr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	openwounds			5	10																																																																					0
+crafted blood gloves	1			100					4	vgl	jew	rune	gemr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	crush			5	10																																																																					0
+crafted blood weapon	1			100					4	axe	jew	rune	gemr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	dmg%			35	60																																																																					0
+crafted blood shield	1			100					4	spk	jew	rune	gemr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	thorns			4	7																																																																					0
+crafted blood ring	1			100					4	ring	jew	rune	gemr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	str			1	5																																																																					0
+crafted blood boots	1			100					4	tbt	jew	rune	gemr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	regen			5	10																																																																					0
+crafted hitpower helm	1			100					4	fhl	jew	rune	gems				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
+crafted hitpower amulet	1			100					4	amul	jew	rune	gems				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	howl			5	15																																																																					0
+crafted hitpower body	1			100					4	fld	jew	rune	gems				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	balance1			10	20																																																																					0
+crafted hitpower belt	1			100					4	tbl	jew	rune	gems				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg-to-mana			5	10																																																																					0
+crafted hitpower gloves	1			100					4	mgl	jew	rune	gems				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1																																																																					0
+crafted hitpower weapon	1			100					4	blun	jew	rune	gems				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg%			35	60																																																																					0
+crafted hitpower shield	1			100					4	gts	jew	rune	gems				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	block			5	10																																																																					0
+crafted hitpower ring	1			100					4	ring	jew	rune	gems				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	6	dex			1	5																																																																					0
+crafted hitpower boots	1			100					4	mbt	jew	rune	gems				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60																																																																					0
+crafted caster helm	1			100					4	msk	jew	rune	gema				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	manasteal			1	4																																																																					0
+crafted caster amulet	1			100					4	amul	jew	rune	gema				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
+crafted caster body	1			100					4	ltp	jew	rune	gema				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
+crafted caster belt	1			100					4	vbl	jew	rune	gema				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
+crafted caster gloves	1			100					4	lgl	jew	rune	gema				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
+crafted caster weapon	1			100					4	rod	jew	rune	gema				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			1	5																																																																					0
+crafted caster shield	1			100					4	sml	jew	rune	gema				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	block			5	10																																																																					0
+crafted caster ring	1			100					4	ring	jew	rune	gema				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	enr			1	5																																																																					0
+crafted caster boots	1			100					4	lbt	jew	rune	gema				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			2	5																																																																					0
+crafted safety helm	1			100					4	crn	jew	rune	geme				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-ltng			5	10	ac%			10	30																																																																0
+crafted safety amulet	1			100					4	amul	jew	rune	geme				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	block			1	10																																																																					0
+crafted safety body	1			100					4	brs	jew	rune	geme				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	half-freeze			1	1	ac%			10	30																																																																0
+crafted safety belt	1			100					4	lbl	jew	rune	geme				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-pois			5	10	ac%			10	30																																																																0
+crafted safety gloves	1			100					4	hgl	jew	rune	geme				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-cold			5	10	ac%			10	30																																																																0
+crafted safety weapon	1			100					4	spea	jew	rune	geme				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10																																																																					0
+crafted safety shield	1			100					4	kit	jew	rune	geme				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-mag			5	10	ac%			10	30																																																																0
+crafted safety ring	1			100					4	ring	jew	rune	geme				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
+crafted safety boots	1			100					4	hbt	jew	rune	geme				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-fire			5	10	ac%			10	30																																																																0
+set weapon	1			100					2	weap	geme						"usetype,set"	99																																																																																						0
+set armor	1			100					2	armo	geme						"usetype,set"	99																																																																																						0
+set amulet	1			100					2	amu	geme						"usetype,set"	99																																																																																						0
+set ring	1			100					2	rin	geme						"usetype,set"	99																																																																																						0
+set amulet -> set amulet	1			100					1	"amu,set"							"usetype,set"	99																																																																																						0
+set ring -> set ring	1			100					1	"rin,set"							"usetype,set"	99																																																																																						0
+unique weapon	1			100					2	weap	gema						"usetype,uni"	99																																																																																						0
+unique armor	1			100					2	armo	gema						"usetype,uni"	99																																																																																						0
+unique amulet	1			100					2	amu	gema						"usetype,uni"	99																																																																																						0
+unique ring	1			100					2	rin	gema						"usetype,uni"	99																																																																																						0
+the stone of jordan	1			100					2	rune	gema						The Stone of Jordan	99																																																																																						0
+unique small charm	1			100					2	cm1	gema						Annihilus	99																																																																																						0
+unique large charm	1			100					2	cm2	gema						Hellfire Torch	99																																																																																						0
+unique grand charm	1			100					2	cm3	gema						Gheed's Fortune	99																																																																																						0
+unique jewel	1			100					2	jew	gema						"jew,uni"	99																																																																																						0
+unique amulet -> unique amulet	1			100					1	"amu,uni"							"amu,uni"	99																																																																																						0
+unique ring -> unique ring	1			100					1	"rin,uni"							"rin,uni"	99																																																																																						0
+unique charm -> unique charm	1			100					1	"cm2,uni"							"cm2,uni"	99																																																																																						0
+unique jewel -> unique jewel	1			100					1	"jew,uni"							"jew,uni"	99																																																																																						0
+cheat ama	1			100					2	amaz	isc						useitem				skilltab		2	3	3																																																																															0
+cheat ama	1			100					2	jave	isc						useitem				skilltab		2	3	3																																																																															0
+cheat asn	1			100					2	h2h	isc						useitem				skill		251	3	3	skill		262	3	3	skill		258	3	3																																																																					0
+cheat asn	1			100					3	h2h	"isc,qty=2"						useitem				skill		272	3	3	skill		263	3	3																																																																										0
+cheat nec	1			100					2	wand	isc						useitem				skill		69	3	3	skill		70	3	3	skill		66	3	3																																																																					0
+cheat nec	1			100					2	necr	isc						useitem				skill		69	3	3	skill		70	3	3	skill		80	3	3																																																																					0
+cheat bar	1			100					2	barb	isc						useitem				skill		127	3	3	skill		128	3	3	skill		129	3	3																																																																					0
+cheat bar	1			100					3	barb	"isc,qty=2"						useitem				skill		126	3	3	skill		133	3	3	skill		128	3	3																																																																					0
+cheat bar	1			100					4	barb	"isc,qty=3"						useitem				skill		147	3	3	skill		133	3	3	skill		137	3	3																																																																					0
+cheat pal	1			100					2	scep	isc						useitem				skill		96	3	3	skill		106	3	3																																																																										0
+cheat pal	1			100					2	pala	isc						useitem				skill		104	3	3	skill		117	3	3	skill		122	3	3																																																																					0
+cheat sor	1			100					2	staf	isc						useitem				skill		44	3	3	skill		37	3	3																																																																										0
+cheat sor	1			100					3	staf	"isc,qty=2"						useitem				skill		55	3	3	skill		45	3	3	skill		39	3	3																																																																					0
+cheat sor	1			100					4	staf	"isc,qty=3"						useitem				skill		64	3	3	skill		65	3	3	skill		39	3	3																																																																					0
+cheat dru	1			100					2	club	isc						useitem				skill		221	3	3	skill		222	3	3																																																																										0
+cheat dru	1			100					2	drui	isc						useitem				skill		226	3	3	skill		227	3	3																																																																										0
+cheat dru	1			100					3	drui	"isc,qty=2"						useitem				skill		231	3	3	skill		236	3	3	skill		237	3	3																																																																					0
+cheat dru	1			100					4	drui	"isc,qty=3"						useitem				skill		223	3	3	skill		224	3	3	skill		248	3	3																																																																					0
+cheat weapon	1			100					2	weap	isc						useitem				aura		123	25	25	charged		91	80	60	hit-skill		87	100	1																																																																					0
+cheat arrows	1			100					2	aqv	isc						useitem				pierce			100	100	knock		1	1																																																																											0
+cheat bolts	1			100					2	cqv	isc						useitem				explosivearrow			13	13																																																																															0
+cheat gloves	1			100					2	glov	isc						useitem				str/lvl		40																																																																																	0
+cheat boots	1			100					2	boot	isc						useitem				charged		54	27	3	nofreeze			1	1	half-freeze			1	1																																																																					0
+cheat belt	1			100					2	belt	isc						useitem				aura		120	25	25																																																																															0
+cheat armor	1			100					2	armo	isc						useitem				hp			450	450	hp/lvl		40			hp%			50	50	vit			95	95	vit/lvl		40																																																													0
+cheat amulet	1			100					2	amu	isc						useitem				allskills			1	1																																																																															0
+cheat ring	1			100					2	rin	isc						useitem				att/lvl			50	50																																																																															0
+cheat charm	1			100					1	isc							char				light			8	8	gold%			400	400	gold%/lvl			40	40	mag%			150	150	mag%/lvl			40	40																																																											0
+cheat charm	1			100					2	char	isc						useitem				light			8	8	gold%			400	400	gold%/lvl			40	40	mag%			150	150	mag%/lvl			40	40																																																											0
+cheat charm	1			100					3	char	"isc,qty=2"						useitem				addxp			50	50	allskills			2	2	dmg%			200	200	att%			200	200																																																																0
+cheat charm	1			100					4	char	"isc,qty=3"						useitem				ac%			100	100	res-all			75	75	aura		120	5	5																																																																					0
+cheat jewel	1			100					2	jew	isc						useitem				res-all			165	165	res-all-max			25	25																																																																										0
+cheat jewel	1			100					2	gemr	isc						jew				hit-skill		244	100	18	hit-skill		229	100	23	hit-skill		225	100	22	gethit-skill		62	100	15																																																																0
+cheat jewel	1			100					2	gems	isc						jew				hit-skill		64	100	21	hit-skill		55	100	18	hit-skill		245	100	16	hit-skill		240	100	15	gethit-skill		60	100	15																																																											0
+cheat jewel	1			100					2	gemt	isc						jew				hit-skill		48	100	22	hit-skill		38	100	20	hit-skill		93	100	20	gethit-skill		42	100	13																																																																0
+cheat jewel	1			100					2	geme	isc						jew				hit-skill		92	100	51	gethit-skill		92	100	20																																																																										0
+cheat jewel	1			100					2	gemd	isc						jew				hit-skill		47	100	15	hit-skill		44	100	22	hit-skill		53	100	20	hit-skill		278	100	15	gethit-skill		68	100	15																																																											0
+cheat jewel	1			100					2	gema	isc						jew				hit-skill		59	100	40	hit-skill		53	100	47	hit-skill		56	100	48	hit-skill		278	100	23	gethit-skill		235	100	15																																																											0
